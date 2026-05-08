@@ -1,0 +1,45 @@
+[paths]
+source_dir = "D:\\dev\\MTAddImgToPdf\\my_workspace\\pdf\\source"
+output_dir = "D:\\dev\\MTAddImgToPdf\\my_workspace\\pdf\\output"
+
+[[images]]
+path = "D:\\dev\\MTAddImgToPdf\\my_workspace\\pdf\\sign\\pongsathorn-blue.png"
+scale_percent = 25
+opacity = 1.0
+pos_x = 80
+pos_y = 270
+
+[[images]]
+path = "D:\\dev\\MTAddImgToPdf\\my_workspace\\pdf\\sign\\pongsathorn-black.png"
+scale_percent = 25
+opacity = 1.0
+pos_x = 450
+pos_y = 270
+
+[[images]]
+path = "D:\\dev\\MTAddImgToPdf\\my_workspace\\pdf\\sign\\chanjira-blue.png"
+scale_percent = 25
+opacity = 1.0
+pos_x = 250
+pos_y = 270
+
+[[images]]
+path = "D:\\dev\\MTAddImgToPdf\\my_workspace\\pdf\\sign\\chanjira-black.png"
+scale_percent = 25
+opacity = 1.0
+pos_x = 615
+pos_y = 270
+
+[[images]]
+path = "D:\\dev\\MTAddImgToPdf\\my_workspace\\pdf\\sign\\p6-coop-logo.png"
+scale_percent = 10
+opacity = 0.3
+pos_x = 100
+pos_y = 150
+
+[[images]]
+path = "D:\\dev\\MTAddImgToPdf\\my_workspace\\pdf\\sign\\p6-coop-logo.png"
+scale_percent = 10
+opacity = 0.3
+pos_x = 500
+pos_y = 150
